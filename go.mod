@@ -1,4 +1,4 @@
-module github.com/project-blanc/go-huffc
+module github.com/sprintertech/go-huffc
 
 go 1.22
 

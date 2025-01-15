@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/project-blanc/go-huffc"
+	"github.com/sprintertech/go-huffc"
 )
 
 func TestCompilerCompile(t *testing.T) {

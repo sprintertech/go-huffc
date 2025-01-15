@@ -4,10 +4,10 @@ go 1.22
 
 require (
 	github.com/lmittmann/w3 v0.17.0
-	github.com/project-blanc/go-huffc v0.0.0
+	github.com/sprintertech/go-huffc v0.0.0
 )
 
-replace github.com/project-blanc/go-huffc => ../
+replace github.com/sprintertech/go-huffc => ../
 
 require (
 	github.com/DataDog/zstd v1.5.2 // indirect

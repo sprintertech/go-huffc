@@ -8,7 +8,7 @@ import (
 	"github.com/lmittmann/w3"
 	"github.com/lmittmann/w3/w3types"
 	"github.com/lmittmann/w3/w3vm"
-	"github.com/project-blanc/go-huffc"
+	"github.com/sprintertech/go-huffc"
 )
 
 var (
