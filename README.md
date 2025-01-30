@@ -6,7 +6,7 @@
 `go-huffc` provides an easy way to compile [Huff](https://github.com/huff-language/huff-rs) contracts from Go.
 
 > [!NOTE]
-> `go-huffc` requires the `huffc` binary to be installed. See [huff.sh](https://huff.sh) for installation instructions.
+> `go-huffc` requires the `hnc` binary to be installed. See the [huff-neo](https://github.com/cakevm/huff-neo) repository for installation instructions.
 
 ```
 go get github.com/sprintertech/go-huffc

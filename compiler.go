@@ -26,7 +26,7 @@ type Compiler struct {
 // New returns a new instance of the compiler.
 func New() *Compiler {
 	c := &Compiler{
-		cmd: "huffc",
+		cmd: "hnc",
 	}
 	return c
 }
