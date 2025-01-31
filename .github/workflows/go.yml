@@ -40,7 +40,5 @@ jobs:
         with:
           go-version: "1.23"
       - uses: cakevm/huff-neo-toolchain@v1
-        with:
-          version: nightly
       - name: go test
         run: go test ./...
